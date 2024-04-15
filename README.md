@@ -1,1 +1,1 @@
-This repository contain all te algorithms performed in os lab .
+This repository contain all the algorithms performed in os lab .
